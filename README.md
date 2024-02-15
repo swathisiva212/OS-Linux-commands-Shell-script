@@ -42,17 +42,22 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-
+chankul singhvi
+c.k.shukla
+s.n.dasgupta
+sumit chakrobarty
 
 
 cat < file2
 ## OUTPUT
-
+chankul singhvi
+c.k.shukla
+s.n.dasgupta
+sumit chakrobarty
 
 # Comparing Files
 cmp file1 file2
-## OUTPUT
- 
+## OUTP
 comm file1 file2
  ## OUTPUT
 
