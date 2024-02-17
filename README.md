@@ -88,17 +88,19 @@ cat > file22
 cut -c1-3 file11
 ## OUTPUT
 
-
+Hel
+thi
 
 
 cut -d "|" -f 1 file22
 ## OUTPUT
 
+cut: file22: No such file or directory
 
 
 cut -d "|" -f 2 file22
 ## OUTPUT
-
+cut: file22: No such file or directory
 
 cat < newfile 
 ```
